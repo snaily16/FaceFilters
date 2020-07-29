@@ -13,4 +13,4 @@ python Faceapp.py
 ```
 
 ## Demo
-![Demo](https://github.com/snaily16/FaceFilters/demo.png)
+![Demo](https://github.com/snaily16/FaceFilters/blob/master/demo.png)
